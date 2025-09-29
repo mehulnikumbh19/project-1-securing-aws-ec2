@@ -22,7 +22,9 @@ This project documents my process of securely setting up and managing an Amazon 
 
 ## Key Commands & Configuration
 
-<pre> ```bash sudo adduser mehul sudo passwd mehul sudo usermod -aG wheel mehul ``` </pre>
+<pre> ```bash sudo adduser mehul 
+  sudo passwd mehul 
+  sudo usermod -aG wheel mehul ``` </pre>
 
 ### User Management
 
